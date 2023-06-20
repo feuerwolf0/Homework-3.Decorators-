@@ -1,0 +1,4 @@
+Время: 2023-06-20 19:02:11.318496, Функция: hello_world, args: (), kwargs: {}, result: Hello World 
+Время: 2023-06-20 19:02:11.319496, Функция: summator, args: (2, 2), kwargs: {}, result: 4 
+Время: 2023-06-20 19:02:11.319496, Функция: div, args: (6, 2), kwargs: {}, result: 3.0 
+Время: 2023-06-20 19:02:11.319496, Функция: summator, args: (4.3,), kwargs: {'b': 2.2}, result: 6.5 
